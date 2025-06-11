@@ -2,7 +2,7 @@
 
 A full-stack application that identifies cloud security misconfigurations and provides AI-powered remediation suggestions. Perfect for learning cloud security and demonstrating full-stack development skills.
 
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](./clouddetector.png)
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20FastAPI%20%7C%20AI-blue)
