@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+boto3
+requests
+groq
+python-dotenv
+pyjwt
+python-multipart
+pytest
+pytest-asyncio
+httpx
